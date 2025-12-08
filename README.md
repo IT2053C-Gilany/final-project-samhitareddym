@@ -1,6 +1,6 @@
-# 📊 Final Project - Edit me!
+# 📊 Final Project - Movie Ratings: Critics vs. Audience 
 
-By: Student Name
+By: Samhita Madireddy
 
 ---
 
